@@ -1,0 +1,9 @@
+I:\projects\FileReader\FileReader\bin\Debug\FileReader.exe.config
+I:\projects\FileReader\FileReader\bin\Debug\FileReader.exe
+I:\projects\FileReader\FileReader\bin\Debug\FileReader.pdb
+I:\projects\FileReader\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
+I:\projects\FileReader\FileReader\obj\Debug\FileReader.Form1.resources
+I:\projects\FileReader\FileReader\obj\Debug\FileReader.Properties.Resources.resources
+I:\projects\FileReader\FileReader\obj\Debug\FileReader.csproj.GenerateResource.Cache
+I:\projects\FileReader\FileReader\obj\Debug\FileReader.exe
+I:\projects\FileReader\FileReader\obj\Debug\FileReader.pdb
